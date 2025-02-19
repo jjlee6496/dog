@@ -16,8 +16,8 @@ pip install -r requirements
 python app.py
 ```
 # 결과
-![결과1](https://github.com/jjlee6496/dog/result1.png)
-![결과2](https://github.com/jjlee6496/dog/result2.png)
+![결과1](https://github.com/jjlee6496/dog/blob/main/result1.png)
+![결과2](https://github.com/jjlee6496/dog/blob/main/result2.png)
 
 # 프로젝트 구조
 ├── app.py
